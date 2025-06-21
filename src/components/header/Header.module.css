@@ -1,0 +1,20 @@
+.header{
+  display: flex;
+  align-items: center;
+  padding: 8px 10px;
+}
+
+.profileimg{
+  width: 40px;
+  height: 40px;
+  border-radius: 35px;
+  margin-right: 12px;
+  object-fit: cover;
+  border: 1px solid #ddd;
+}
+
+.username{
+  font-weight: 600;
+  font-size: 14px;
+  color: #262626;
+}
