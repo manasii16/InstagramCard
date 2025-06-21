@@ -1,0 +1,13 @@
+.card{
+  width: 360px;
+  margin: 40px auto;
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', sans-serif;
+  padding: 13px;
+}
+
+
+
