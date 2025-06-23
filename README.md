@@ -1,12 +1,24 @@
-# React + Vite
+## Instagram Post Card
+---
+This is a simple, modular Instagram-style post card built with React. It includes a profile image, post image, action buttons (like, comment, share), and a caption area. The structure follows a component-based approach for reusability and clarity.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modular Instagram-style post card component built with React and CSS Modules.
 
-Currently, two official plugins are available:
+## Features
+---
+-Profile header with image
+-Post image display
+-Like, comment, share actions
+-Caption section
+-Scoped styling with CSS Modules
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Dependencies:
+---
+1. Header – Profile and username
+2. Image – Post content
+3. Actions – Buttons (like, comment, share)
+4. Caption – Post text
+5. InstaPostCard.module.css – Styling
+6. profile.jpeg – Sample image (used for both profile and post image here)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
