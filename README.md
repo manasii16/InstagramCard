@@ -1,4 +1,4 @@
-## Instagram Post Card Component
+## Instagram Post Card
 ---
 This is a simple, modular Instagram-style post card built with React. It includes a profile image, post image, action buttons (like, comment, share), and a caption area. The structure follows a component-based approach for reusability and clarity.
 
